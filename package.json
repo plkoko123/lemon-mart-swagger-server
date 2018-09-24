@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/plkoko123/lemon-mart-swagger-server/issues"
   },
-  "homepage": "https://github.com/plkoko123/lemon-mart-swagger-server#readme"
+  "homepage": "https://github.com/plkoko123/lemon-mart-swagger-server#readme",
+  "devDependencies": {
+    "cross-conf-env": "^1.1.2",
+    "npm-run-all": "^4.1.3"
+  }
 }
