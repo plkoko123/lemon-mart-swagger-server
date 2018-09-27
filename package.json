@@ -4,7 +4,7 @@
   "description": "Mock Swagger Server for LemonMart",
   "main": "index.js",
   "config": {
-    "imageRepo": "duluca/lemon-mart-swagger-server",
+    "imageRepo": "jinlin9192/lemon-mart-swagger-server",
     "imageName": "lemon-mart-swagger-server",
     "imagePort": "3000"
   },
